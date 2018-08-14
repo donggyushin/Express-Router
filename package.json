@@ -6,5 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3"
-  }
+  },
+  "eslint.packageManager": "yarn"
 }
